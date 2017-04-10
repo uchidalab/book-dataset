@@ -8,7 +8,7 @@
 
 |Author|Description|Link|Top 1|Top 3|
 |---|---|---|---|---|
-|Iwana et al.|Pretrained AlexNet with tranfer learning|[arXiv](https://arxiv.org/abs/1610.09204)|24.7%|40.3%|
+|Iwana et al.|Pretrained AlexNet with transfer learning|[arXiv](https://arxiv.org/abs/1610.09204)|24.7%|40.3%|
 
 
 ## Contact
