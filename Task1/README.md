@@ -13,12 +13,15 @@ This task is to explore the entire book database. There are 137,788 books in 32 
 #### File Structure
 
 bookcover30-labels-train.txt
+
 bookcover30-labels-test.txt
 
 #### Ground Truth
 
 30 classes
+
 Training - 51,300 Total
+
 Test - 5,700 Total
 
 |Label|Category Name|Training Size|Test Size|
