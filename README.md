@@ -1,5 +1,7 @@
 # Book Dataset
 
+This dataset contains 137,788 books from the Amazon.com, Inc. marketplace.
+
 ## Challenges
 
 [Results and related papers](docs/results.md)
@@ -14,7 +16,7 @@ The purpose of this task is to classify the books by the cover image. The BookCo
 
 ### Task 2: Data Mining (Book32)
 
-This task is to explore the entire book database. There are 137,788 books in 32 classes. This dataset contains book cover images, title, author, and subcategories for each respective book.
+This task is to explore the entire book database. There are 137,788 books in 32 classes. This dataset contains book cover images, title, author, and category for each respective book.
 
 [Technical details](./Task2)
 

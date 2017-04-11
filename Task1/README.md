@@ -1,8 +1,8 @@
 # Book Dataset - Task 1
 
-[Top](../README.md)
+[Top](/../../)
 
-[Results](../docs/results.md)
+[Results](/../../docs/results.md)
 
 ## Task 1: Classification
 
@@ -12,9 +12,37 @@ This task is to explore the entire book database. There are 137,788 books in 32 
 
 #### File Structure
 
-bookcover30-labels-train.txt
+>book30-listing-train.csv
+>book30-listing-test.csv
 
-bookcover30-labels-test.txt
+Training set and test set with all attributes including image URL, title, author, and category.
+
+Format:
+```
+"[AMAZON INDEX (ASIN)}","[FILENAME]","[IMAGE URL]","[TITLE]","[AUTHOR]","[CATEGORY ID]","[CATEGORY]"
+```
+
+Example:
+```
+044310073X.jpg 16
+1438005687.jpg 28
+```
+
+>bookcover30-labels-train.txt
+>bookcover30-labels-test.txt
+
+Simplified training set and test set ground truth listed by image name and class number (listed below).
+
+Format:
+```
+[FILENAME] [CLASS NO.]
+```
+
+Example:
+```
+044310073X.jpg 16
+1438005687.jpg 28
+```
 
 #### Ground Truth
 
