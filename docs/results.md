@@ -1,6 +1,6 @@
 # Book Dataset
 
-[Top](../README.md)
+[Top](../)
 
 ## Results
 
