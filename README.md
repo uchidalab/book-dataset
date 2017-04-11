@@ -14,7 +14,9 @@ The purpose of this task is to classify the books by the cover image. The BookCo
 
 [Technical details](./Task1)
 
-### Task 2: Data Mining (Book32)
+### Task 2: Data Mining
+
+#### Data Mining (Book32)
 
 This task is to explore the entire book database. There are 137,788 books in 32 classes. This dataset contains book cover images, title, author, and category for each respective book.
 
