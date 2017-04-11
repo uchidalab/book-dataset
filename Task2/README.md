@@ -1,8 +1,8 @@
 # Book Dataset - Task 2
 
-[Top](../)
+[Top](/../../)
 
-[Results](../docs/results.md)
+[Results](/../../docs/results.md)
 
 ## Task 2: Data Mining (Book32)
 
