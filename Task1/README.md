@@ -24,8 +24,8 @@ Format:
 
 Example:
 ```
-044310073X.jpg 16
-1438005687.jpg 28
+"044310073X","044310073X.jpg","http://ecx.images-amazon.com/images/I/41kSLEoswsL.jpg","Oral and Maxillofacial Surgery: An Objective-Based Textbook, 2e","","16","Medical Books"
+"1438005687","1438005687.jpg","http://ecx.images-amazon.com/images/I/510l0qhi01L.jpg","Barron's GRE, 21st Edition","Sharon Weiner Green M.A.","28","Test Preparation"
 ```
 
 >bookcover30-labels-train.txt
