@@ -24,8 +24,8 @@ Format:
 
 Example:
 ```
-"044310073X","044310073X.jpg","http://ecx.images-amazon.com/images/I/41kSLEoswsL.jpg","Oral and Maxillofacial Surgery: An Objective-Based Textbook, 2e","","16","Medical Books"
-"1438005687","1438005687.jpg","http://ecx.images-amazon.com/images/I/510l0qhi01L.jpg","Barron's GRE, 21st Edition","Sharon Weiner Green M.A.","28","Test Preparation"
+"1588345297","1588345297.jpg","http://ecx.images-amazon.com/images/I/51l6XIoa3rL.jpg","With Schwarzkopf: Life Lessons of The Bear","Gus Lee","1","Biographies & Memoirs"
+"1404803335","1404803335.jpg","http://ecx.images-amazon.com/images/I/51UJnL3Tx6L.jpg","Magnets: Pulling Together, Pushing Apart (Amazing Science)","Natalie M. Rosinsky","4","Children's Books"
 ```
 
 >bookcover30-labels-train.txt
@@ -40,8 +40,8 @@ Format:
 
 Example:
 ```
-044310073X.jpg 16
-1438005687.jpg 28
+1588345297.jpg 1
+1404803335.jpg 4
 ```
 
 #### Ground Truth
