@@ -1,6 +1,6 @@
 # Book Dataset - Task 2
 
-[Top](../README.md)
+[Top](../)
 
 [Results](../docs/results.md)
 
