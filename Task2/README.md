@@ -10,7 +10,22 @@ This task is to explore the entire book database. There are 137,788 books in 32 
 
 #### File Structure
 
-#### Ground Truth
+>book32-listing.csv
+
+Dataset with all attributes including image URL, title, author, and category.
+
+Format:
+```
+"[AMAZON INDEX (ASIN)}","[FILENAME]","[IMAGE URL]","[TITLE]","[AUTHOR]","[CATEGORY ID]","[CATEGORY]"
+```
+
+Example:
+```
+"1588345297","1588345297.jpg","http://ecx.images-amazon.com/images/I/51l6XIoa3rL.jpg","With Schwarzkopf: Life Lessons of The Bear","Gus Lee","1","Biographies & Memoirs"
+"1404803335","1404803335.jpg","http://ecx.images-amazon.com/images/I/51UJnL3Tx6L.jpg","Magnets: Pulling Together, Pushing Apart (Amazing Science)","Natalie M. Rosinsky","4","Children's Books"
+```
+
+#### Category ID
 
 32 classes
 

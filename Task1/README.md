@@ -44,7 +44,7 @@ Example:
 1404803335.jpg 4
 ```
 
-#### Ground Truth
+#### Category ID
 
 30 classes
 
