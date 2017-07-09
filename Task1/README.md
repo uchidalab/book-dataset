@@ -8,7 +8,7 @@
 
 ### A. Book Cover Image to Genre (BookCover30)
 
-This task is to explore the entire book database. There are 137,788 books in 32 classes. This dataset contains book cover images, title, author, and subcategories for each respective book.
+This task is to explore the entire book database. There are 57,000 books in 30 classes. This dataset contains book cover images, title, author, and subcategories for each respective book.
 
 #### File Structure
 
