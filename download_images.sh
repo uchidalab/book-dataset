@@ -1,7 +1,7 @@
 #!/bin/bash
 set -eu
 
-pip3 install -U pandas tqdm
+pip3 install -U pandas tqdm joblib
 
 OUTPUT_DIRPATH="images"
 CSV_FILEPATH="Task2/book32-listing.csv"
