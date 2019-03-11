@@ -32,7 +32,7 @@ Due to size constraints, the full images aren't available in this repository. Ho
 
 Resized images for the BookCover30 dataset are available in this download.
 
-[Download](https://drive.google.com/a/human.ait.kyushu-u.ac.jp/file/d/1LVWYXn2WdF-7NuLbl_LyyEwXSvIJUdPr/view?usp=sharing)
+[Download](https://drive.google.com/a/human.ait.kyushu-u.ac.jp/file/d/1LVWYXn2WdF-7NuLbl_LyyEwXSvIJUdPr/view?usp=sharing) (657 MB)
 
 ## Citation
 
