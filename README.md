@@ -22,6 +22,18 @@ This task is to explore the entire book database. There are 207,572 books in 32 
 
 [Technical details](./Task2)
 
+## Use
+
+### Full Images
+
+Due to size constraints, the full images aren't available in this repository. However, we provide label files with URLs to the images hosted on Amazon. Note, the fidelity of the images cannot be guarenteed. A script to download them can be found in [scripts](./scripts).
+
+### (224 x 224 x 3) Images
+
+Resized images for the BookCover30 dataset are available in this download.
+
+[Download](https://drive.google.com/a/human.ait.kyushu-u.ac.jp/file/d/1LVWYXn2WdF-7NuLbl_LyyEwXSvIJUdPr/view?usp=sharing)
+
 ## Citation
 
 [Paper on arXiv](https://arxiv.org/abs/1610.09204)
