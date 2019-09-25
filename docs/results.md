@@ -2,14 +2,20 @@
 
 [Top](/../../)
 
-## Results
+## Papers
 
-### Task 1A: BookCover30
+### Task 1: BookCover30
 
-|Author|Description|Link|Top 1|Top 3|
+|Authors|Title|Method|Link|Accuracy|
 |---|---|---|---|---|
-|Iwana et al.|Pretrained AlexNet with transfer learning|[arXiv](https://arxiv.org/abs/1610.09204)|24.7%|40.3%|
+|Iwana et al.|Judging a Book By its Cover|Fine-tuned AlexNet|[arXiv](https://arxiv.org/abs/1610.09204)|24.7%|
+|Iwana et al.|Judging a Book By its Cover|LeNet|[arXiv](https://arxiv.org/abs/1610.09204)|13.5%|
 
+### Task 2: Book32
+
+|Authors|Title|Task|Link|
+|---|---|---|---|
+|Shinahara et al.|Serif or Sans: Visual Font Analytics on Book Covers and Online Advertisements|Font to genre correlation|TBD|
 
 ## Contact
 
