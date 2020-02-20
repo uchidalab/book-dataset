@@ -51,7 +51,7 @@ B. K. Iwana, S. T. Raza Rizvi, S. Ahmed, A. Dengel, and S. Uchida, "Judging a Bo
 
 ## Contact
 
-brian@human.ait.kyushu-u.ac.jp
+brian.k.iwana@human.ait.kyushu-u.ac.jp
 
 ## Disclaimer
 
