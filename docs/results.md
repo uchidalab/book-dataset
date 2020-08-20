@@ -6,7 +6,7 @@
 
 ### Task 1: BookCover30
 
-|Authors|Title|Method|Link|Accuracy|
+|Authors|Title|Link|Method|Accuracy|
 |---|---|---|---|---|
 |Iwana et al.|Judging a Book By its Cover|[arXiv](https://arxiv.org/abs/1610.09204)|AlexNet|24.7%|
 |Iwana et al.|Judging a Book By its Cover|[arXiv](https://arxiv.org/abs/1610.09204)|LeNet|13.5%|
